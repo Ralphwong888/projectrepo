@@ -1,3 +1,11 @@
-Main branch content - Version 2
-This line is from the main branch
-Updated with new main branch changes
+Merged content from both branches
+
+Main branch updates:
+- Main branch content - Version 2
+- Updated with new main branch changes
+
+Feature branch updates:
+- Feature branch content - Version 1
+- Added new functionality here
+
+All conflicts resolved successfully.
